@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+
+.container {
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
+}
+/*# sourceMappingURL=index.4ee4707b.css.map */
